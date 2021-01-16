@@ -1,0 +1,50 @@
+	#title{
+		display: flex;
+		flex-direction: column;
+		background: lightgray;
+		align-items: center;
+		font-family: monospace;
+	}
+	.fo{
+		font-size: 45px;
+	}
+	.p1{
+		font-size: 20px;
+	}
+	#img-div{
+	    display: flex;
+		flex-direction: column;
+		background: white;
+		border: 1px solid white;
+		border-width: 225px;
+		border-top: 2px;
+		border-bottom: 2px;
+	}
+	#image{
+		max-width:100%;
+		height: auto;
+	}
+	#img-caption{
+	   text-align: center;
+	}
+	#tribute-info{
+		display: flex;
+		flex-direction: column;
+		background: lightgray;
+		font-family: monospace;
+		border: 1px solid lightgray;
+		border-width: 40px;
+		border-height:100px; 
+	}
+	li{
+		font-size: 15px;
+	}
+	.h{
+		text-align: center;
+	}
+	blockquote{
+		font-style: italic;
+	}
+	ul{
+		margin: auto;
+	}
